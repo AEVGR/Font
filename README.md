@@ -1,5 +1,14 @@
 # Schrift für Qgis mit Symbolen 
 
-@font-face{font-family:TeXGyreAdventor; src:url(/Users/xx/Documents/texgyreadventor-regular.woff);}
-
+<style>
+@font-face {
+    font-family: 'myfont';
+    src: url(data:font/truetype;charset=utf-8;base64,<<copied base64 string>>) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+body { 
+    font-family: "myfont", Verdana, Tahoma;
+}
+</style>
 
