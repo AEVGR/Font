@@ -1,6 +1,4 @@
-# Schrift für Qgis mit Symbolen 
-
-<style>
+<style type="text/css>
 @font-face {
     font-family: 'myfont';
     src: url(data:font/truetype;charset=utf-8;base64,<<copied base64 string>>) format('truetype');
@@ -11,4 +9,7 @@ body {
     font-family: "myfont", Verdana, Tahoma;
 }
 </style>
+# Schrift für Qgis mit Symbolen 
+
+
 
